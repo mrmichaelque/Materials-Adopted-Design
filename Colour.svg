@@ -1,3 +1,7 @@
+function runAnimations() {}
+runAnimations();
+
+
 <svg width="1440" height="2069" viewBox="0 0 1440 2069" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1440" height="2069" rx="8" fill="white"/>
 <path d="M0 8C0 3.58172 3.58172 0 8 0H1432C1436.42 0 1440 3.58172 1440 8V116H0V8Z" fill="#212529"/>
